@@ -5,6 +5,8 @@ TimeTrial Manager, or TTM for short, is a django application for managing time t
 *ToDo*
 
 ## Development Roadmap
+Dev Notes:
+1. We cannot embed strava segments? -Workaround is creating a route and then embeding the route id instead
 Quick napkin level plan:
 1. Work on Models
 2. Add user auth
